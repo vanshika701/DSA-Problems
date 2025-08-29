@@ -1,20 +1,14 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        int c=0,found=0;
-        for(int i=0;i<nums.length;i++){
-            int k=nums[i];
-            for(int j=0;j<nums.length;j++){
-                if(k==nums[j]){
-                c++;
-                }
-            }
-            if(c==1){
-            found = k;
-            break;}
-            else{
-            c=0;
-            }
+        int n=0;
+        HashMap<Integer, Integer> map=new HashMap<>();
+        for(int num:nums){
+            map.put(num,map.getOrDefault(num,0)+1);
         }
-        return found;
+        for(int num:nums){
+            if(map.get(num)==1)
+            n=num;
+        }
+        return n;
     }
 }
