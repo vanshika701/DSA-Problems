@@ -18,7 +18,7 @@ class Solution {
                 if(tokens[i].equals("*"))
                 st.push(p*q);
                 else
-                {if(p!=0)
+                {
                 st.push(q/p);
                 }
             }
