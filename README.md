@@ -27,6 +27,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/vanshika701/LeetCode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/vanshika701/LeetCode-DSA/tree/main/0071-simplify-path/) | Medium |
+| [0242-valid-anagram](https://github.com/vanshika701/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/vanshika701/LeetCode-DSA/tree/main/0383-ransom-note/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/vanshika701/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/vanshika701/LeetCode-DSA/tree/main/0383-ransom-note/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -56,4 +58,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0162-find-peak-element](https://github.com/vanshika701/LeetCode-DSA/tree/main/0162-find-peak-element/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/vanshika701/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
