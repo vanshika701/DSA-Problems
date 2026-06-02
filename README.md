@@ -29,6 +29,7 @@
 | [0020-valid-parentheses](https://github.com/vanshika701/LeetCode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/vanshika701/LeetCode-DSA/tree/main/0071-simplify-path/) | Medium |
 | [0242-valid-anagram](https://github.com/vanshika701/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/vanshika701/LeetCode-DSA/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/vanshika701/LeetCode-DSA/tree/main/0383-ransom-note/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -45,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/vanshika701/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0290-word-pattern](https://github.com/vanshika701/LeetCode-DSA/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/vanshika701/LeetCode-DSA/tree/main/0383-ransom-note/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
