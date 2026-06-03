@@ -26,6 +26,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/vanshika701/LeetCode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/vanshika701/LeetCode-DSA/tree/main/0071-simplify-path/) | Medium |
 | [0242-valid-anagram](https://github.com/vanshika701/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -55,6 +56,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0088-merge-sorted-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vanshika701/LeetCode-DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0162-find-peak-element](https://github.com/vanshika701/LeetCode-DSA/tree/main/0162-find-peak-element/) | Medium |
@@ -75,4 +77,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/vanshika701/LeetCode-DSA/tree/main/0191-number-of-1-bits/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
