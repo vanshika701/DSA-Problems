@@ -94,6 +94,7 @@
 | [0620-not-boring-movies](https://github.com/vanshika701/LeetCode-DSA/tree/main/0620-not-boring-movies/) | Easy |
 | [1068-product-sales-analysis-i](https://github.com/vanshika701/LeetCode-DSA/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/vanshika701/LeetCode-DSA/tree/main/1075-project-employees-i/) | Easy |
+| [1251-average-selling-price](https://github.com/vanshika701/LeetCode-DSA/tree/main/1251-average-selling-price/) | Easy |
 | [1683-invalid-tweets](https://github.com/vanshika701/LeetCode-DSA/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/vanshika701/LeetCode-DSA/tree/main/1729-find-followers-count/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/vanshika701/LeetCode-DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
