@@ -15,7 +15,7 @@ public class Solution {
         return false;
         ListNode s=head;
         ListNode f=head;
-        while(f!=null&&f.next!=null&&f.next.next!=null){
+        while(f!=null&&f.next!=null){
             s=s.next;
             f=f.next.next;
             if(s==f)
