@@ -4,17 +4,13 @@ class Solution {
         int st=0;
         char c=' ';
         while(ss<s.length()&&st<t.length()){
-            c=s.charAt(ss);
-            if(t.charAt(st)!=c)
+            if(t.charAt(st)!=s.charAt(ss))
             st++;
             else{
                 st++;
                 ss++;
             }
         }
-        if(ss==s.length())
-        return true;
-        else
-        return false;
+        return ss==s.length();
     }
 }
