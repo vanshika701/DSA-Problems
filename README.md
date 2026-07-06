@@ -92,6 +92,7 @@
 | [0136-single-number](https://github.com/vanshika701/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/vanshika701/LeetCode-DSA/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/vanshika701/LeetCode-DSA/tree/main/0191-number-of-1-bits/) | Easy |
+| [0338-counting-bits](https://github.com/vanshika701/LeetCode-DSA/tree/main/0338-counting-bits/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -154,6 +155,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0338-counting-bits](https://github.com/vanshika701/LeetCode-DSA/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/vanshika701/LeetCode-DSA/tree/main/0392-is-subsequence/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
