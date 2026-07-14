@@ -21,7 +21,6 @@ class Solution {
         queue.add(root.left);
         queue.add(root.right);
         while(!queue.isEmpty()){
-            int levelSize=queue.size();
                 TreeNode l=queue.poll();
                 TreeNode r=queue.poll();
                 if (l == null && r == null)
