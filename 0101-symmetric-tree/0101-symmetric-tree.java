@@ -15,6 +15,8 @@
  */
 class Solution {
     public boolean isSymmetric(TreeNode root) {
+        if (root == null)
+    return true;
         Queue<TreeNode> queue=new LinkedList<>();
         queue.add(root.left);
         queue.add(root.right);
@@ -38,4 +40,4 @@ class Solution {
                 }
         return true;
         }
-}//bfs lgake  phle que mei left ka left pusg kro nd right ka right, then left ka right and right ka left, nd que se do do member nikal ke check krte rho both shld 
+}//bfs lgake  phle que mei left ka left pusg kro nd right ka right, then left ka right and right ka left, nd que se do do member nikal ke check krte rho both shld be equal
