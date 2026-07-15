@@ -141,6 +141,7 @@
 | [0226-invert-binary-tree](https://github.com/vanshika701/LeetCode-DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vanshika701/LeetCode-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanshika701/LeetCode-DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/vanshika701/LeetCode-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/vanshika701/LeetCode-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vanshika701/LeetCode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Depth-First Search
@@ -156,6 +157,7 @@
 | [0226-invert-binary-tree](https://github.com/vanshika701/LeetCode-DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vanshika701/LeetCode-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanshika701/LeetCode-DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/vanshika701/LeetCode-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/vanshika701/LeetCode-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vanshika701/LeetCode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Breadth-First Search
@@ -171,6 +173,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/vanshika701/LeetCode-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0226-invert-binary-tree](https://github.com/vanshika701/LeetCode-DSA/tree/main/0226-invert-binary-tree/) | Easy |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/vanshika701/LeetCode-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vanshika701/LeetCode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -187,6 +190,7 @@
 | [0226-invert-binary-tree](https://github.com/vanshika701/LeetCode-DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vanshika701/LeetCode-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/vanshika701/LeetCode-DSA/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/vanshika701/LeetCode-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/vanshika701/LeetCode-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vanshika701/LeetCode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
 ## Dynamic Programming
@@ -202,4 +206,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/vanshika701/LeetCode-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/vanshika701/LeetCode-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 <!---LeetCode Topics End-->
