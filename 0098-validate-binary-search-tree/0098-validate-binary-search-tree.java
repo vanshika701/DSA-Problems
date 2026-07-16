@@ -45,7 +45,7 @@ class Solution {
         if(root==null)
         return true;
     //isValidBST(root.left);
-    if (!isValidBST(root.left))
+    if (!isValidBST(root.left))//this will make sure that if left subtreee is not correct then we immediately return false
     return false;
       if(prev!=null&&prev.val>=root.val)
       return false;
