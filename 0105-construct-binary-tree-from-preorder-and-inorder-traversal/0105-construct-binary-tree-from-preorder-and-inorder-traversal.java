@@ -28,4 +28,4 @@ class Solution {
         node.right=buildTree(Arrays.copyOfRange(preorder,index,preorder.length),Arrays.copyOfRange(inorder,index,inorder.length));
         return node;
     }
-}
+}//this is not the most optimal soln the most optimal solution will be using hashmap
