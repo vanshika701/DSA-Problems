@@ -7,11 +7,8 @@ class Solution {
         int min = Integer.MAX_VALUE;
         int n=nums.length;
         while(r<n){
-            if(sum<target)
-            {
                 sum+=nums[r];
                 r++;
-            }
             while(sum>=target){
                 min=Math.min(min,r-l);
                 sum-=nums[l];
