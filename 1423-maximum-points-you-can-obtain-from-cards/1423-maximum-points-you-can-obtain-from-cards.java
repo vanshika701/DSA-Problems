@@ -3,11 +3,10 @@ class Solution {
         int l=cardPoints.length-1;
         int r=k-1;
         int sum=0;
-        int max=Integer.MIN_VALUE;
         for(int i=0;i<=r;i++){
             sum+=cardPoints[i];
         }
-        max=Math.max(max, sum);
+       int max=sum;
         while(r>=0){
             sum-=cardPoints[r];
             r--;
@@ -15,6 +14,6 @@ class Solution {
             l--;
             max=Math.max(max, sum);
         }
-        return max==Integer.MIN_VALUE?0:max;
+        return max;
     }
 }
