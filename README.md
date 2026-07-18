@@ -33,6 +33,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vanshika701/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/vanshika701/LeetCode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/vanshika701/LeetCode-DSA/tree/main/0071-simplify-path/) | Medium |
@@ -54,6 +55,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vanshika701/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vanshika701/LeetCode-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanshika701/LeetCode-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0141-linked-list-cycle](https://github.com/vanshika701/LeetCode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
@@ -220,6 +222,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vanshika701/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshika701/LeetCode-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vanshika701/LeetCode-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
