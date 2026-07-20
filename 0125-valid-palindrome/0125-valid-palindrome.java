@@ -4,15 +4,17 @@ class Solution {
        int r=s.length()-1;
        s=s.toLowerCase();
        while(l<r){
-        if(!Character.isLetterOrDigit(s.charAt(l))){
+        char a=s.charAt(l);
+        char b=s.charAt(r);
+        if(!Character.isLetterOrDigit(a)){
             l++;
             continue;
         }
-        if(!Character.isLetterOrDigit(s.charAt(r))){
+        if(!Character.isLetterOrDigit(b)){
             r--;
             continue;
         }
-        if(s.charAt(l)!=s.charAt(r)){
+        if(a!=b){
             return false;
         }
         l++;
