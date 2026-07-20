@@ -19,6 +19,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/vanshika701/LeetCode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/vanshika701/LeetCode-DSA/tree/main/0015-3sum/) | Medium |
 | [0061-rotate-list](https://github.com/vanshika701/LeetCode-DSA/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
@@ -79,6 +80,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/vanshika701/LeetCode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/vanshika701/LeetCode-DSA/tree/main/0015-3sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
@@ -258,4 +260,8 @@
 | [0209-minimum-size-subarray-sum](https://github.com/vanshika701/LeetCode-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshika701/LeetCode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vanshika701/LeetCode-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/vanshika701/LeetCode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
