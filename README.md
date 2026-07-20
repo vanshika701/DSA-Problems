@@ -21,6 +21,7 @@
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/vanshika701/LeetCode-DSA/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/vanshika701/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/vanshika701/LeetCode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika701/LeetCode-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0392-is-subsequence](https://github.com/vanshika701/LeetCode-DSA/tree/main/0392-is-subsequence/) | Easy |
@@ -38,6 +39,7 @@
 | [0014-longest-common-prefix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/vanshika701/LeetCode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0071-simplify-path](https://github.com/vanshika701/LeetCode-DSA/tree/main/0071-simplify-path/) | Medium |
+| [0125-valid-palindrome](https://github.com/vanshika701/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/vanshika701/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/vanshika701/LeetCode-DSA/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/vanshika701/LeetCode-DSA/tree/main/0383-ransom-note/) | Easy |
