@@ -1,6 +1,9 @@
 class Solution {
     public int[] twoSum(int[] numbers, int target) {
         //two pointer approach will be used
+        //isme dono pointr ko left se start nhi krenge , ek ko left se and ke ko right se krnege and dono ka sum krenge agar sum bhut zyada hai toh r ko decrease krenge warna agar sum kam hua toh l ko increase krenge
+        //TC- O(N)
+        //SC-O(1)
         int l=0;
         int r=numbers.length-1;
         int[] ans=new int[2];
