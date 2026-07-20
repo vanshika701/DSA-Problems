@@ -44,6 +44,7 @@
 | [0290-word-pattern](https://github.com/vanshika701/LeetCode-DSA/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/vanshika701/LeetCode-DSA/tree/main/0383-ransom-note/) | Easy |
 | [0392-is-subsequence](https://github.com/vanshika701/LeetCode-DSA/tree/main/0392-is-subsequence/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/vanshika701/LeetCode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshika701/LeetCode-DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@
 | [0242-valid-anagram](https://github.com/vanshika701/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/vanshika701/LeetCode-DSA/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/vanshika701/LeetCode-DSA/tree/main/0383-ransom-note/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/vanshika701/LeetCode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vanshika701/LeetCode-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshika701/LeetCode-DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Counting
@@ -236,6 +238,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshika701/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshika701/LeetCode-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/vanshika701/LeetCode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vanshika701/LeetCode-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshika701/LeetCode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshika701/LeetCode-DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
