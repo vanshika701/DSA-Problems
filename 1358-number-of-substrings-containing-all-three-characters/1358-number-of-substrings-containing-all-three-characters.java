@@ -16,15 +16,7 @@ class Solution {
             else
             c=l;
             if(a!=-1&&b!=-1&&c!=-1){
-                count++;
-            r=Math.min(a,Math.min(b,c));
-            if(r!=0){
-                r--;
-                while(r>=0){
-                    count++;
-                    r--;
-                }
-            }
+            count+=Math.min(a,Math.min(b,c))+1;
             }
             l++;
         }
