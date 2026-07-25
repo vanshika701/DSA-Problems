@@ -94,6 +94,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika701/LeetCode-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshika701/LeetCode-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vanshika701/LeetCode-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshika701/LeetCode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vanshika701/LeetCode-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -107,6 +108,7 @@
 | [0162-find-peak-element](https://github.com/vanshika701/LeetCode-DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika701/LeetCode-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshika701/LeetCode-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshika701/LeetCode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -121,6 +123,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanshika701/LeetCode-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0190-reverse-bits](https://github.com/vanshika701/LeetCode-DSA/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/vanshika701/LeetCode-DSA/tree/main/0191-number-of-1-bits/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +162,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/vanshika701/LeetCode-DSA/tree/main/2614-prime-in-diagonal/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
