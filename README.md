@@ -83,6 +83,7 @@
 | [0011-container-with-most-water](https://github.com/vanshika701/LeetCode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/vanshika701/LeetCode-DSA/tree/main/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/vanshika701/LeetCode-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
@@ -103,6 +104,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/vanshika701/LeetCode-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/vanshika701/LeetCode-DSA/tree/main/0162-find-peak-element/) | Medium |
