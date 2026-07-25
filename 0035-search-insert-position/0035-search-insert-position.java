@@ -1,5 +1,7 @@
 class Solution {
     public int searchInsert(int[] nums, int target) {
+        // to find the insertion postion we know that insertion position will be wherver the lower pointer will end up
+
         int lower=0;
         int end=nums.length-1;
         int mid=0;
