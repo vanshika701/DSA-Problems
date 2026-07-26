@@ -20,7 +20,7 @@ class Solution {
 
 
 
-
+        //this is correct optimal soln
         int start=0;
         int end=nums.length-1;
         while(start<end){
