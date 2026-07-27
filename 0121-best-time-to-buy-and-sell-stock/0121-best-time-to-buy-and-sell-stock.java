@@ -2,13 +2,12 @@ class Solution {
     public int maxProfit(int[] prices) {
         int min=prices[0];
         int profit=0;
-        for(int i=0;i<prices.length;i++){
-            int cost=prices[i]-min;
-            if(cost>profit)
-            profit=cost;
-            if(prices[i]<min)
-            min=prices[i];
-        }
-        return profit;
+        for(int i=1;i<prices.length;i++){
+              min = Math.min(min, prices[i]);
+              profit = Math.max(profit, prices[i] - min);
+         }
+         return profit;
+        
     }
 }
+//forst wale ko min man lo then har ele ko math.min krke min nikalte rho and math.max krke prof niklate rho
