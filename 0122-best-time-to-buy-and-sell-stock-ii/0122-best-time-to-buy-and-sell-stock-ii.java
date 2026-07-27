@@ -10,4 +10,6 @@ class Solution {
         }
         return totalProf;
     }
-}
+}// point to note is ek din mei multiple time khareed bech skte and tc-O(n) and sc-O(1)
+//optimal approach
+//approach hai ki jab bhi agle din stock k price badhne wala toh aad bech do basically short term investment
