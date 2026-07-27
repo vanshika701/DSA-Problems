@@ -96,6 +96,7 @@
 | [0088-merge-sorted-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vanshika701/LeetCode-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanshika701/LeetCode-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0136-single-number](https://github.com/vanshika701/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vanshika701/LeetCode-DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -256,6 +257,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0338-counting-bits](https://github.com/vanshika701/LeetCode-DSA/tree/main/0338-counting-bits/) | Easy |
 | [0392-is-subsequence](https://github.com/vanshika701/LeetCode-DSA/tree/main/0392-is-subsequence/) | Easy |
 ## Sliding Window
@@ -285,4 +287,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/vanshika701/LeetCode-DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 <!---LeetCode Topics End-->
