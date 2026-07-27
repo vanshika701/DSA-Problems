@@ -69,4 +69,5 @@ switch (letter){
     sum += value(s.charAt(l - 1));
     return sum;
  }
-}
+}//this give timeO(n) and space O(1)
+//most optimal soln
