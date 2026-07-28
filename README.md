@@ -105,6 +105,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika701/LeetCode-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshika701/LeetCode-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/vanshika701/LeetCode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vanshika701/LeetCode-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshika701/LeetCode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -283,6 +284,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshika701/LeetCode-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/vanshika701/LeetCode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshika701/LeetCode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vanshika701/LeetCode-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Greedy
