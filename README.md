@@ -21,6 +21,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/vanshika701/LeetCode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/vanshika701/LeetCode-DSA/tree/main/0015-3sum/) | Medium |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshika701/LeetCode-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/vanshika701/LeetCode-DSA/tree/main/0061-rotate-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/vanshika701/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
@@ -45,6 +46,7 @@
 | [0013-roman-to-integer](https://github.com/vanshika701/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/vanshika701/LeetCode-DSA/tree/main/0020-valid-parentheses/) | Easy |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshika701/LeetCode-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0071-simplify-path](https://github.com/vanshika701/LeetCode-DSA/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/vanshika701/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vanshika701/LeetCode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -294,4 +296,8 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/vanshika701/LeetCode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshika701/LeetCode-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
