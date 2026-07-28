@@ -52,4 +52,7 @@ for(int i=l-2;i>=0;i--){
 }
 return answer;
     }
+    //ek baar hum left to right leke and prefix leke pura multiply krke ans mei store kraenge
+    //fir right to left and suffix leke suffix mei store kraenge
+    //TC_O(n), sc-O(n)
 }
