@@ -56,6 +56,7 @@
 | [0392-is-subsequence](https://github.com/vanshika701/LeetCode-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/vanshika701/LeetCode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshika701/LeetCode-DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1859-sorting-the-sentence](https://github.com/vanshika701/LeetCode-DSA/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +138,7 @@
 | [0088-merge-sorted-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/vanshika701/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1859-sorting-the-sentence](https://github.com/vanshika701/LeetCode-DSA/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
