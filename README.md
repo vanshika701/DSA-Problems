@@ -37,6 +37,7 @@
 | [0013-roman-to-integer](https://github.com/vanshika701/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vanshika701/LeetCode-DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/vanshika701/LeetCode-DSA/tree/main/2614-prime-in-diagonal/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vanshika701/LeetCode-DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/vanshika701/LeetCode-DSA/tree/main/3115-maximum-prime-difference/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -57,6 +58,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/vanshika701/LeetCode-DSA/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vanshika701/LeetCode-DSA/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1859-sorting-the-sentence](https://github.com/vanshika701/LeetCode-DSA/tree/main/1859-sorting-the-sentence/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vanshika701/LeetCode-DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +302,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/vanshika701/LeetCode-DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vanshika701/LeetCode-DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
