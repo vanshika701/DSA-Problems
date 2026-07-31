@@ -28,6 +28,7 @@
 | [0141-linked-list-cycle](https://github.com/vanshika701/LeetCode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vanshika701/LeetCode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika701/LeetCode-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0392-is-subsequence](https://github.com/vanshika701/LeetCode-DSA/tree/main/0392-is-subsequence/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -36,6 +37,7 @@
 | [0012-integer-to-roman](https://github.com/vanshika701/LeetCode-DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/vanshika701/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vanshika701/LeetCode-DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0189-rotate-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/vanshika701/LeetCode-DSA/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vanshika701/LeetCode-DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/vanshika701/LeetCode-DSA/tree/main/3115-maximum-prime-difference/) | Medium |
@@ -113,6 +115,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/vanshika701/LeetCode-DSA/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika701/LeetCode-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/vanshika701/LeetCode-DSA/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/vanshika701/LeetCode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
