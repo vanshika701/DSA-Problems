@@ -110,6 +110,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanshika701/LeetCode-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshika701/LeetCode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0134-gas-station](https://github.com/vanshika701/LeetCode-DSA/tree/main/0134-gas-station/) | Medium |
 | [0136-single-number](https://github.com/vanshika701/LeetCode-DSA/tree/main/0136-single-number/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vanshika701/LeetCode-DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -312,6 +313,7 @@
 | [0045-jump-game-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/vanshika701/LeetCode-DSA/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+| [0134-gas-station](https://github.com/vanshika701/LeetCode-DSA/tree/main/0134-gas-station/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vanshika701/LeetCode-DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
