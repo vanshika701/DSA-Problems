@@ -185,6 +185,7 @@
 | [1251-average-selling-price](https://github.com/vanshika701/LeetCode-DSA/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/vanshika701/LeetCode-DSA/tree/main/1280-students-and-examinations/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vanshika701/LeetCode-DSA/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1661-average-time-of-process-per-machine](https://github.com/vanshika701/LeetCode-DSA/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/vanshika701/LeetCode-DSA/tree/main/1667-fix-names-in-a-table/) | Easy |
 | [1683-invalid-tweets](https://github.com/vanshika701/LeetCode-DSA/tree/main/1683-invalid-tweets/) | Easy |
 | [1729-find-followers-count](https://github.com/vanshika701/LeetCode-DSA/tree/main/1729-find-followers-count/) | Easy |
