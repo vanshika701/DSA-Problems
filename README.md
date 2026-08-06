@@ -184,6 +184,7 @@
 | [1075-project-employees-i](https://github.com/vanshika701/LeetCode-DSA/tree/main/1075-project-employees-i/) | Easy |
 | [1251-average-selling-price](https://github.com/vanshika701/LeetCode-DSA/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/vanshika701/LeetCode-DSA/tree/main/1280-students-and-examinations/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/vanshika701/LeetCode-DSA/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/vanshika701/LeetCode-DSA/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/vanshika701/LeetCode-DSA/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/vanshika701/LeetCode-DSA/tree/main/1667-fix-names-in-a-table/) | Easy |
