@@ -1,19 +1,15 @@
 class Solution {
     public int removeDuplicates(int[] nums) {
-        HashMap<Integer, Integer> dubli=new HashMap<> ();
-        for(int i:nums){
-            dubli.put(i, dubli.getOrDefault(i,0)+1);
-        }
-        List<Integer> keys = new ArrayList<>(dubli.keySet());
-        Collections.sort(keys);
-
-        int i=0;
-        int k=0;
-        for(int key:keys){
-            nums[i]=key;
-            i++;
+      if (nums.length==0)
+      return 0;
+      int k=1;
+      for(int i=0;i<nums.length;i++){
+        if(nums[i]!=nums[k-1])
+        {
+            nums[k]=nums[i];
             k++;
         }
-        return k;
+      }
+      return k;
     }
 }
