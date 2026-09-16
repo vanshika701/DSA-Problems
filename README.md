@@ -141,6 +141,7 @@
 | [0219-contains-duplicate-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/vanshika701/LeetCode-DSA/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0274-h-index](https://github.com/vanshika701/LeetCode-DSA/tree/main/0274-h-index/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vanshika701/LeetCode-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshika701/LeetCode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vanshika701/LeetCode-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -167,6 +168,7 @@
 | [0088-merge-sorted-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/vanshika701/LeetCode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/vanshika701/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
+| [0274-h-index](https://github.com/vanshika701/LeetCode-DSA/tree/main/0274-h-index/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1859-sorting-the-sentence](https://github.com/vanshika701/LeetCode-DSA/tree/main/1859-sorting-the-sentence/) | Easy |
 ## Divide and Conquer
@@ -359,4 +361,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/vanshika701/LeetCode-DSA/tree/main/0169-majority-element/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/vanshika701/LeetCode-DSA/tree/main/0274-h-index/) | Medium |
 <!---LeetCode Topics End-->
