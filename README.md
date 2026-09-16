@@ -30,6 +30,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshika701/LeetCode-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0061-rotate-list](https://github.com/vanshika701/LeetCode-DSA/tree/main/0061-rotate-list/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0086-partition-list](https://github.com/vanshika701/LeetCode-DSA/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/vanshika701/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
@@ -117,6 +118,7 @@
 | [0045-jump-game-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/vanshika701/LeetCode-DSA/tree/main/0055-jump-game/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vanshika701/LeetCode-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanshika701/LeetCode-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
