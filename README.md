@@ -45,6 +45,7 @@
 | [0002-add-two-numbers](https://github.com/vanshika701/LeetCode-DSA/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/vanshika701/LeetCode-DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/vanshika701/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0070-climbing-stairs](https://github.com/vanshika701/LeetCode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vanshika701/LeetCode-DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0189-rotate-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0189-rotate-array/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/vanshika701/LeetCode-DSA/tree/main/2614-prime-in-diagonal/) | Easy |
@@ -308,6 +309,7 @@
 | [0045-jump-game-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/vanshika701/LeetCode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/vanshika701/LeetCode-DSA/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/vanshika701/LeetCode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshika701/LeetCode-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0338-counting-bits](https://github.com/vanshika701/LeetCode-DSA/tree/main/0338-counting-bits/) | Easy |
@@ -365,4 +367,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/vanshika701/LeetCode-DSA/tree/main/0274-h-index/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/vanshika701/LeetCode-DSA/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
