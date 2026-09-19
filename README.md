@@ -15,6 +15,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/vanshika701/LeetCode-DSA/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/vanshika701/LeetCode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/vanshika701/LeetCode-DSA/tree/main/0146-lru-cache/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +84,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/vanshika701/LeetCode-DSA/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/vanshika701/LeetCode-DSA/tree/main/0155-min-stack/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -95,6 +97,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanshika701/LeetCode-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/vanshika701/LeetCode-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0141-linked-list-cycle](https://github.com/vanshika701/LeetCode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
+| [0146-lru-cache](https://github.com/vanshika701/LeetCode-DSA/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/vanshika701/LeetCode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/vanshika701/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -371,4 +374,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/vanshika701/LeetCode-DSA/tree/main/0070-climbing-stairs/) | Easy |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/vanshika701/LeetCode-DSA/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
