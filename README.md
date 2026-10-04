@@ -93,6 +93,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshika701/LeetCode-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/vanshika701/LeetCode-DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/vanshika701/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
+| [0036-valid-sudoku](https://github.com/vanshika701/LeetCode-DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vanshika701/LeetCode-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanshika701/LeetCode-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/vanshika701/LeetCode-DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -122,6 +123,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/vanshika701/LeetCode-DSA/tree/main/0035-search-insert-position/) | Easy |
+| [0036-valid-sudoku](https://github.com/vanshika701/LeetCode-DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0045-jump-game-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/vanshika701/LeetCode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/vanshika701/LeetCode-DSA/tree/main/0055-jump-game/) | Medium |
@@ -229,6 +231,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/vanshika701/LeetCode-DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/vanshika701/LeetCode-DSA/tree/main/2614-prime-in-diagonal/) | Easy |
