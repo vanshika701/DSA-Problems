@@ -127,6 +127,7 @@
 | [0036-valid-sudoku](https://github.com/vanshika701/LeetCode-DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0045-jump-game-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/vanshika701/LeetCode-DSA/tree/main/0053-maximum-subarray/) | Medium |
+| [0054-spiral-matrix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/vanshika701/LeetCode-DSA/tree/main/0055-jump-game/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/vanshika701/LeetCode-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -234,6 +235,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/vanshika701/LeetCode-DSA/tree/main/0036-valid-sudoku/) | Medium |
+| [0054-spiral-matrix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/vanshika701/LeetCode-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -392,4 +394,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
