@@ -156,6 +156,7 @@
 | [0274-h-index](https://github.com/vanshika701/LeetCode-DSA/tree/main/0274-h-index/) | Medium |
 | [0289-game-of-life](https://github.com/vanshika701/LeetCode-DSA/tree/main/0289-game-of-life/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/vanshika701/LeetCode-DSA/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0994-rotting-oranges](https://github.com/vanshika701/LeetCode-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshika701/LeetCode-DSA/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/vanshika701/LeetCode-DSA/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -244,6 +245,7 @@
 | [0074-search-a-2d-matrix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0289-game-of-life](https://github.com/vanshika701/LeetCode-DSA/tree/main/0289-game-of-life/) | Medium |
+| [0994-rotting-oranges](https://github.com/vanshika701/LeetCode-DSA/tree/main/0994-rotting-oranges/) | Medium |
 | [2614-prime-in-diagonal](https://github.com/vanshika701/LeetCode-DSA/tree/main/2614-prime-in-diagonal/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -300,6 +302,7 @@
 | [0226-invert-binary-tree](https://github.com/vanshika701/LeetCode-DSA/tree/main/0226-invert-binary-tree/) | Easy |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/vanshika701/LeetCode-DSA/tree/main/0530-minimum-absolute-difference-in-bst/) | Easy |
 | [0637-average-of-levels-in-binary-tree](https://github.com/vanshika701/LeetCode-DSA/tree/main/0637-average-of-levels-in-binary-tree/) | Easy |
+| [0994-rotting-oranges](https://github.com/vanshika701/LeetCode-DSA/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
