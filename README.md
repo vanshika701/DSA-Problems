@@ -68,6 +68,7 @@
 | [0071-simplify-path](https://github.com/vanshika701/LeetCode-DSA/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/vanshika701/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/vanshika701/LeetCode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/vanshika701/LeetCode-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/vanshika701/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/vanshika701/LeetCode-DSA/tree/main/0290-word-pattern/) | Easy |
 | [0383-ransom-note](https://github.com/vanshika701/LeetCode-DSA/tree/main/0383-ransom-note/) | Easy |
@@ -103,6 +104,7 @@
 | [0141-linked-list-cycle](https://github.com/vanshika701/LeetCode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/vanshika701/LeetCode-DSA/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/vanshika701/LeetCode-DSA/tree/main/0169-majority-element/) | Easy |
+| [0205-isomorphic-strings](https://github.com/vanshika701/LeetCode-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/vanshika701/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
 | [0290-word-pattern](https://github.com/vanshika701/LeetCode-DSA/tree/main/0290-word-pattern/) | Easy |
