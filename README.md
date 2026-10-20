@@ -64,6 +64,7 @@
 | [0014-longest-common-prefix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/vanshika701/LeetCode-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vanshika701/LeetCode-DSA/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0049-group-anagrams](https://github.com/vanshika701/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0058-length-of-last-word](https://github.com/vanshika701/LeetCode-DSA/tree/main/0058-length-of-last-word/) | Easy |
 | [0071-simplify-path](https://github.com/vanshika701/LeetCode-DSA/tree/main/0071-simplify-path/) | Medium |
 | [0125-valid-palindrome](https://github.com/vanshika701/LeetCode-DSA/tree/main/0125-valid-palindrome/) | Easy |
@@ -97,6 +98,7 @@
 | [0012-integer-to-roman](https://github.com/vanshika701/LeetCode-DSA/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/vanshika701/LeetCode-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0036-valid-sudoku](https://github.com/vanshika701/LeetCode-DSA/tree/main/0036-valid-sudoku/) | Medium |
+| [0049-group-anagrams](https://github.com/vanshika701/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/vanshika701/LeetCode-DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/vanshika701/LeetCode-DSA/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/vanshika701/LeetCode-DSA/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
@@ -131,6 +133,7 @@
 | [0036-valid-sudoku](https://github.com/vanshika701/LeetCode-DSA/tree/main/0036-valid-sudoku/) | Medium |
 | [0045-jump-game-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/vanshika701/LeetCode-DSA/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/vanshika701/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/vanshika701/LeetCode-DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0055-jump-game](https://github.com/vanshika701/LeetCode-DSA/tree/main/0055-jump-game/) | Medium |
@@ -184,6 +187,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/vanshika701/LeetCode-DSA/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/vanshika701/LeetCode-DSA/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/vanshika701/LeetCode-DSA/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
