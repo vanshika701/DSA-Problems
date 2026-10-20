@@ -39,6 +39,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/vanshika701/LeetCode-DSA/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshika701/LeetCode-DSA/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/vanshika701/LeetCode-DSA/tree/main/0202-happy-number/) | Easy |
 | [0392-is-subsequence](https://github.com/vanshika701/LeetCode-DSA/tree/main/0392-is-subsequence/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -51,6 +52,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/vanshika701/LeetCode-DSA/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0172-factorial-trailing-zeroes](https://github.com/vanshika701/LeetCode-DSA/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/vanshika701/LeetCode-DSA/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/vanshika701/LeetCode-DSA/tree/main/0202-happy-number/) | Easy |
 | [2614-prime-in-diagonal](https://github.com/vanshika701/LeetCode-DSA/tree/main/2614-prime-in-diagonal/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vanshika701/LeetCode-DSA/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3115-maximum-prime-difference](https://github.com/vanshika701/LeetCode-DSA/tree/main/3115-maximum-prime-difference/) | Medium |
@@ -106,6 +108,7 @@
 | [0141-linked-list-cycle](https://github.com/vanshika701/LeetCode-DSA/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/vanshika701/LeetCode-DSA/tree/main/0146-lru-cache/) | Medium |
 | [0169-majority-element](https://github.com/vanshika701/LeetCode-DSA/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/vanshika701/LeetCode-DSA/tree/main/0202-happy-number/) | Easy |
 | [0205-isomorphic-strings](https://github.com/vanshika701/LeetCode-DSA/tree/main/0205-isomorphic-strings/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/vanshika701/LeetCode-DSA/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0242-valid-anagram](https://github.com/vanshika701/LeetCode-DSA/tree/main/0242-valid-anagram/) | Easy |
@@ -424,4 +427,8 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/vanshika701/LeetCode-DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0289-game-of-life](https://github.com/vanshika701/LeetCode-DSA/tree/main/0289-game-of-life/) | Medium |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/vanshika701/LeetCode-DSA/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
