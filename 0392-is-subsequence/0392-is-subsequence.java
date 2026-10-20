@@ -1,16 +1,13 @@
 class Solution {
     public boolean isSubsequence(String s, String t) {
-        int ss=0;
-        int st=0;
-        char c=' ';
-        while(ss<s.length()&&st<t.length()){
-            if(t.charAt(st)!=s.charAt(ss))
-            st++;
-            else{
-                st++;
-                ss++;
+        int l1=0;
+        int l2=0;
+        while(l1<s.length()&&l2<t.length()){
+            if(s.charAt(l1)==t.charAt(l2))
+            {l1++;
             }
+                l2++;
         }
-        return ss==s.length();
-    }
+        return l1==s.length();
+}
 }
